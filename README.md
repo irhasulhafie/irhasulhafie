@@ -1,7 +1,6 @@
-
-<div align="center" >![yamada-ryou-yamada-ryo](https://github.com/irhasulhafie/irhasulhafie/assets/129844468/785b850b-7fc0-4fdf-aa10-88f757675a7f)
-</div>
-
+<p align="center">
+  <img width="460" height="300" src="https://tenor.com/view/yamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738">
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Irhasul Hafie Setyonegoro</h1>
 <h3 align="center">A student from STMIK Widya Pratama</h3>
 
