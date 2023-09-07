@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="bocchi-the-rock-ryo-yamada.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Irhasul Hafie Setyonegoro</h1>
 <h3 align="center">A student from STMIK Widya Pratama</h3>
