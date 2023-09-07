@@ -1,4 +1,6 @@
 
+![yamada-ryou-yamada-ryo](https://github.com/irhasulhafie/irhasulhafie/assets/129844468/688a0dbd-eb1d-4032-b027-001b88dc0df7)
+
 <h1 align="center">Hi 👋, I'm Muhammad Irhasul Hafie Setyonegoro</h1>
 <h3 align="center">A student from STMIK Widya Pratama</h3>
 
