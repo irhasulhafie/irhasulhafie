@@ -1,3 +1,4 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738&psig=AOvVaw0Wwabrwzsio6u7Qb6yZRP0&ust=1694181905854000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD-s8bVmIEDFQAAAAAdAAAAABAE
 <h1 align="center">Hi 👋, I'm Muhammad Irhasul Hafie Setyonegoro</h1>
 <h3 align="center">A student from STMIK Widya Pratama</h3>
 
