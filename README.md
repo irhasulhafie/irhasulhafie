@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://tenor.com/view/yamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738">
+  <img width="460" height="300" src="">
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Irhasul Hafie Setyonegoro</h1>
 <h3 align="center">A student from STMIK Widya Pratama</h3>
